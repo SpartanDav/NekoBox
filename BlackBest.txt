@@ -1,3 +1,5 @@
+# profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 (по вопросам: @SpartanDavX - тг)
+
 vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@185.70.105.21:2355?security=reality&sni=market.yandex.ru&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&sid=e9fe5a1007079dae&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia,%20Moscow%20%7C%20[BL]
 vless://0a9f44b4-6ee4-448a-9601-7927b2759dca@72.56.233.230:8446?security=reality&sni=jobinvest.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20[IPv6]%20%7C%20[BL]
 vless://ab8d4756-c60b-484c-affd-1207a03de9d2@45.12.62.201:443?security=reality&sni=apple.com&fp=chrome&pbk=PjrgcrzYBq-aa3g1gC03_uKfLVgVosXzHsyUfbJbBw4&sid=d5facdae&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Eygelshoven%20%7C%20[BL]
