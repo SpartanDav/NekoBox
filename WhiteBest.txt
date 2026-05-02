@@ -1,4 +1,4 @@
-# profile-title: 🏳️‍  БЕЛЫЕ СПИСКИ 🏳️‍  (по вопросам: @SpartanDavX - тг)
+# profile-title: 🤍 WhiteBest (по вопросам: @SpartanDavX - тг)
 
 vless://e7d88c6a-c253-4d16-b0cb-e293b2856c6e@195.209.212.66:13080?security=reality&sni=sso.passport.yandex.ru&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&sid=a8ac91fd6a3c63ca&type=tcp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20[*CIDR]
 vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@85.14.247.144:8082?security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20[IPv6]%20[*CIDR]
