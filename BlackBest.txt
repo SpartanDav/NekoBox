@@ -1,5 +1,7 @@
 # profile-title: 🖤 BlackBest (по вопросам: @SpartanDavX - тг)
 
+vless://4a250dc6-e406-4f76-999a-88074305333c@95.85.229.247:443?security=reality&sni=teamdocs.su&fp=firefox&pbk=jY_8Ie_jAzScf94tyz152mXFWeHizA2SjBgJ3KedqHg&sid=480161102e58c1b3&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9A%D0%92%D0%9D%20%D0%9F%D0%9E%D0%9B%20%D0%91%D0%95%D0%A1%D0%9F-t.me/freekvn%20%D0%B4%D0%BE%205.05%20(3%D1%82%D0%B1%20%D0%BE%D0%B1%D1%89)
+vless://19131bb8-af37-4fd8-a759-29879d9ebe65@171.22.133.58:443?security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=BfQBWkqiYIaT-v-jO6FFaGMPsBFOtfFxKOh3HJZXK3c&sid=3de90e3535433409&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9A%D0%92%D0%9D%20%D0%9D%D0%98%D0%94%20%D0%91%D0%95%D0%A1%D0%9F-t.me/freekvn%20%D0%B4%D0%BE%205.05%20(3%D1%82%D0%B1%20%D0%BE%D0%B1%D1%89)
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@87.228.94.14:52006?security=tls&sni=cl-eu-1.edgeflux.ru&allowInsecure=1&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland,%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20[IPv6]%20%7C%20[BL]
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@87.228.94.2:52006?security=tls&sni=cl-eu-1.edgeflux.ru&allowInsecure=1&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland,%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20[IPv6]%20%7C%20[BL]
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30047?security=&type=ws&path=/&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland,%20Warsaw%20%7C%20[BL]
