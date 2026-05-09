@@ -1,4 +1,4 @@
-# profile-title: 🖤 BlackBest (по вопросам: @SpartanDavX - тг)
+# profile-title: 🖤 AllBest (по вопросам: @SpartanDavX - тг)
 
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.20:52006?security=tls&sni=cl-ru-1.edgeflux.ru&allowInsecure=1&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20[*CIDR]
 vless://16796387-ceeb-4b58-9cb2-dc87aefb0608@5.188.224.137:2083?security=reality&sni=ir.ozone.ru&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&type=grpc&serviceName=UpdateService&encryption=none#!%2072%20%7C%20GRPC+REALITY%20%7C%20SNI:%20ir.ozone.ru%20%7C%20IN:%20RU%20OUT:%20RU%20%7C%20RATING:%206/10%20t.me/rjsxrd
