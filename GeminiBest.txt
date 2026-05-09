@@ -1,3 +1,0 @@
-trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&sni=14.1.28.76&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States,%20Los%20Angeles%20%7C%20[BL]
-vmess://eyJhZGQiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJhaWQiOiIwIiwiaG9zdCI6InVzMS1zcy5mbHlwYXJ0cy5jbiIsImlkIjoiZTNhYzEyOTMtYzU4Yi00MzhlLTlkMDktZGZjMTMxYzlmYTExIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAyMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://67f4b8ff-15cf-3ec9-b09d-c31a4728c652@strawberry.joe.dj:10777?security=tls&sni=windows11.dpdns.org&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States,%20Santa%20Clarita%20(Canyon%20Country)%20%7C%20[BL]
