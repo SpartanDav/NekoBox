@@ -1,4 +1,4 @@
-# profile-title: HiddifyBest (по вопросам: @SpartanDavX - тг)
+# profile-title: Hiddify (по вопросам: @SpartanDavX - тг)
 
 vless://185c656e-39cb-4149-bdb1-ea1b41769137@144.31.7.203:443?security=reality&sni=www.google.com&fp=chrome&pbk=TUJ5A2RgWJJDkR_XIqBrep4CjZ5VRivEisDHck-yxkg&sid=62&type=tcp&encryption=none#0008%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG:%20@YoutubeUnBlockRu
 vless://70800daf-1d64-476b-9875-2444e7f43275@77.110.106.1:443?security=reality&sni=yahoo.com&fp=chrome&pbk=13qS12jjsHCQpQfL3tEL2nHltgoTp1i-8kVcJ6odrEQ&sid=6635&spx=/&type=tcp&encryption=none#0047%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG:%20@YoutubeUnBlockRu
