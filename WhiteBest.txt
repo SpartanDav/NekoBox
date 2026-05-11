@@ -1,4 +1,4 @@
-# profile-title: NekoBoxBest (по вопросам: @SpartanDavX - тг)
+# profile-title: NekoBox (по вопросам: @SpartanDavX - тг)
 
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?security=tls&sni=cdn.tracker.yandex.net&allowInsecure=1&fp=chrome&type=ws&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&encryption=none#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+081+%F0%9F%87%A6%F0%9F%87%AA
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?security=tls&sni=cdn.tracker.yandex.net&allowInsecure=1&type=ws&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&encryption=none#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+082+%F0%9F%87%A6%F0%9F%87%AA
